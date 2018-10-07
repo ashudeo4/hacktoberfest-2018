@@ -104,6 +104,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [!Know more at](https://alokraj68.in)
 - [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
   [![github-alt][github-img]](https://github.com/alokraj68)
+  
+ ### Ashutosh Singh Deo
+- Student, Nodejs Developer, Open for freelance projects
+- [![github-alt][github-img]](https://github.com/ashudeo4)
 
 ### Ananya
 - I'm a junior year student.
